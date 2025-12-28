@@ -13,6 +13,9 @@ check.addEventListener("click", () => {
   } else {
     result.innerText = "Now is day!";
   }
+  setTimeout( () => {
+    result.innerText = "";
+  }, 1500);
   });
 change.addEventListener("click", () => {
   isClickedChange = !isClickedChange;
