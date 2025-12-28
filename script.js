@@ -15,7 +15,7 @@ check.addEventListener("click", () => {
   }
   setTimeout( () => {
     result.innerText = "";
-  }, 500);
+  }, 700);
   });
 change.addEventListener("click", () => {
   isClickedChange = !isClickedChange;
