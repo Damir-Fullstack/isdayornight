@@ -10,9 +10,9 @@ body{
 button{
   border: aliceblue solid 1px;
   border-radius: 5px;
-  font-size: 3px;
-  height: 6px;
-  width: 8px;
+  font-size: 14px;
+  padding: 8px 16px;
+  margin: 5px;
 }
 .j{
  color: white; 
