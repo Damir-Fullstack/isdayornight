@@ -13,8 +13,8 @@ button{
   font-size: 14px;
   padding: 8px 16px;
   margin: 5px;
-  border-color: rgb(240, 248, 255, 0.2);
-  background-color: rgb(240, 248, 255, 0.2);
+  border-color: rgb(240, 248, 255, 0.7);
+  background-color: rgb(240, 248, 255, 0.7);
 }
 .j{
  color: white; 
