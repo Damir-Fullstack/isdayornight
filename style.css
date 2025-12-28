@@ -8,11 +8,13 @@ body{
   background-color: #0000ff;
 }
 button{
-  border: aliceblue solid 1px;
+  border: solid 1px;
   border-radius: 5px;
   font-size: 14px;
   padding: 8px 16px;
   margin: 5px;
+  border-color: rgb(240, 248, 255, 0.2);
+  background-color: rgb(240, 248, 255, 0.2);
 }
 .j{
  color: white; 
