@@ -18,3 +18,8 @@ Blue🔵 or black⚫ background is **CSS+JavaScript**, because in first colour i
 ---
 # 🔗Link:🔗
 https://damir-fullstack.github.io/isdayornight/
+---
+# 📜License📜
+This project have a **MIT License**
+---
+*Good Coding!*
